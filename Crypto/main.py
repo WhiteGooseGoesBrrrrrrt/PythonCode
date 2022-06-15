@@ -4,3 +4,5 @@ def decode():
 print('dfgdg')
 
 print('aaaaaa')
+
+print('ddddd')
